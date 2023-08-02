@@ -1,4 +1,4 @@
-# Bakery Manger
+# Bakery Manager
 
 <img src="https://img.shields.io/badge/Built%20by-Developers-yellowgreen"/>
 ###### Michael Howell, Abbey Minett, Natalie Theodoropoulou, Harry Hibbins, Yu-Ling You (Daisy), and Lou Diane Rigodon (Elle).
